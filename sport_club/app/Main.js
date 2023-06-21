@@ -5,7 +5,7 @@ export default function Main() {
   return (
     <div>
         <div className="md:container w-full mx-auto p-20">
-<h1 class="w-full mb-4 md:text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Приветсвтуем на сайте <span class="text-blue-600 dark:text-blue-500">Sport Club</span>.RU</h1>
+<h1 class="w-full mb-4 md:text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Приветсвтуем на сайте <span class="text-blue-600 dark:text-blue-500">SportClub</span>.RU</h1>
 <p class="text-lg text-center font-normal text-gray-500 lg:text-xl dark:text-gray-400">Здесь вы сможете купить любое спортивное оборудование для вас и всей вашей семьи!</p>
         </div>
         <div className="container w-full p-5 md:p-0 md:w-1/2 mx-auto  ">

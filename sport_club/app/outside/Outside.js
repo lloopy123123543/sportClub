@@ -1,21 +1,21 @@
 const Cards = [
     {
         id: "1",
-        img: "./images/kimano.png",
-        title: "Дом",
-        text: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        img: "./images/palki.jpg",
+        title: "Палки для треккинга",
+        text: "Приятная ходьба вам обеспечена."
     },
     {
         id: "2",
-        img: "./images/dobok.png",
-        title: "Noteworthy technology acquisitions 2021",
-        text: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        img: "./images/velosiped.png",
+        title: "Велосипед",
+        text: "Надежный напарник в вашем пути!"
     },
     {
         id: "3",
-        img: "./images/paw.png",
-        title: "Noteworthy technology acquisitions 2021",
-        text: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        img: "./images/cross.png",
+        title: "Кроссовки",
+        text: "Стельки, которые рекомендуют врачи."
     }
 ]
 export default Cards;

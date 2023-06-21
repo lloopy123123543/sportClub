@@ -3,19 +3,19 @@ const Cards = [
         id: "1",
         img: "./images/kimano.png",
         title: "Кимано",
-        text: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        text: "Костюм для Карате"
     },
     {
         id: "2",
         img: "./images/dobok.png",
-        title: "Noteworthy technology acquisitions 2021",
-        text: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        title: "Добок",
+        text: "Костюм для тхэквондо"
     },
     {
         id: "3",
         img: "./images/paw.png",
-        title: "Noteworthy technology acquisitions 2021",
-        text: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        title: "Лапа для битья",
+        text: "Подходит для любого боевого вида спорта"
     }
 ]
 export default Cards;

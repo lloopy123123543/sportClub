@@ -7,7 +7,7 @@ export default function Footer() {
 <footer class="bg-white dark:bg-gray-900">
     <div class="mx-auto w-full shadow-inner mt-10">
       <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
-        <div>
+        {/* <div>
             <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4">
@@ -71,7 +71,7 @@ export default function Footer() {
                     <a href="#" class="hover:underline">MacOS</a>
                 </li>
             </ul>
-        </div>
+        </div> */}
     </div>
 
     </div>
