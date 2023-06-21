@@ -21,16 +21,16 @@ export default function Header() {
         <div class="flex items-center">
             <ul class="flex flex-row font-medium mt-0 mr-6 space-x-8 text-sm">
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline" aria-current="page">Home</a>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline" aria-current="page">Главная</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Company</a>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline">О нас</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Team</a>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Категории</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Features</a>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Контакты</a>
                 </li>
             </ul>
         </div>
