@@ -73,7 +73,7 @@ export default function page() {
                   <div className="text-3xl font-bold text-blue-500 mb-10">
                     Ваша корзина
                   </div>
-                  <div className="w-full grid grid-cols-1 md:grid-cols-2 ">
+                  <div className="w-full grid grid-cols-1 gap-4 md:grid-cols-2 ">
                     {Cards.map(card => {
                       return(
                         <div key={card.id} className="w-full  px-4">
@@ -83,7 +83,7 @@ export default function page() {
                         >
                           <img
                             class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 rounded-lg"
-                            src="/images/dobok.png"
+                            src={card.img}
                             alt=""
                           ></img>
                           <div class="flex flex-col justify-between p-4 leading-normal">
