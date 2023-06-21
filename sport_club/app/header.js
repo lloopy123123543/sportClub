@@ -24,13 +24,16 @@ export default function Header() {
                     <a href="#" class="text-gray-900 dark:text-white hover:underline" aria-current="page">Главная</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">О нас</a>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Для дома</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Категории</a>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Боевые искусства</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Контакты</a>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Отдых</a>
+                </li>
+                <li>
+                    <a href="#" class="text-gray-900 dark:text-white hover:underline">На воздухе</a>
                 </li>
             </ul>
         </div>

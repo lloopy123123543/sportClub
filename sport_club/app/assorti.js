@@ -5,10 +5,10 @@ import React from "react";
 export default function Assorti() {
   return (
     <div>
-      <div className="text-center text-3xl font-bold p-10">НАШ АССОРТИМЕНТ</div>
+      <div className="text-center text-3xl font-bold p-10 text-blue-600">НАШ АССОРТИМЕНТ</div>
       <div className="container w-full mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 justify-center items-center">
         <figure class="relative  max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-          <a className="" href="#">
+          <a className="" href="/relax">
             <img
               className="rounded-lg h-60"
               src="./images/relax.jpg"
@@ -22,7 +22,7 @@ export default function Assorti() {
           </figcaption>
         </figure>
         <figure class="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-          <a href="#">
+          <a href="/outside">
             <img
               className="rounded-lg  h-60"
               src="./images/outside.jpg"
@@ -36,7 +36,7 @@ export default function Assorti() {
           </figcaption>
         </figure>
         <figure class="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-          <a href="#">
+          <a href="/house">
             <img
               className="rounded-lg  h-60"
               src="./images/atHome.jpg"

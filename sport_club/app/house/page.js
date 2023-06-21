@@ -1,7 +1,7 @@
 "use client";
 import React, {useState, useEffect, useRef} from "react";
 import Header from "../header";
-import Cards from "./Fight.js"
+import Cards from "./House.js"
 
 export default function page() {
     const [Card, setCard] = useState(Cards)
