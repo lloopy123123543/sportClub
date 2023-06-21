@@ -14,8 +14,8 @@ const Cards = [
     {
         id: "3",
         img: "./images/velotrenager.png",
-        title: "Noteworthy technology acquisitions 2021",
-        text: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        title: "Велотренажер",
+        text: "Хорошо прокачает ваши ноги и выносливость"
     }
 ]
 export default Cards;
